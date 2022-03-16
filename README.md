@@ -1,4 +1,4 @@
-# Hello-Wolrd
+# Hello-World
 Começo de tudo
 
 <h1> Montagem de ambiente </h1>
@@ -25,7 +25,7 @@ Criamos uma pasta Gitrepo dentro da pasta documents do meu usuario
 <br/>
 <h1> Git Commands</h1>
     <ul>
-        <li>gitclone - clona repositorio da nuvem </li>
+        <li>git clone - clona repositorio da nuvem </li>
 
 
     </ul>   
