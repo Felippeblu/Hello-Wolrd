@@ -25,8 +25,12 @@ Criamos uma pasta Gitrepo dentro da pasta documents do meu usuario
 <br/>
 <h1> Git Commands</h1>
     <ul>
+        <li>git log - historico edição</li>
         <li>git clone - clona repositorio da nuvem </li>
-
-
-    </ul>   
+        <li>git status - situação do arquivo</li>
+        <li>git add - preparar arquivos para enviar</li>
+        <li>git commit - fechar pacote de arquivos</li>
+        <li>git push - enviar arquivos</li>
+    </ul>
+       
 
